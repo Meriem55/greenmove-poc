@@ -1,0 +1,1 @@
+# Bibliothèque standard Python uniquement : aucune installation nécessaire.
